@@ -1,2 +1,2 @@
-# os
+# Welcome to OS
 Operating System
